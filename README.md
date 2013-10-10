@@ -1,4 +1,6 @@
 SRUG-Site
 =========
 
-The Repository for the Spokane Ruby Users Group Website
+The Repository for the Spokane Ruby Users Group Website!
+
+
