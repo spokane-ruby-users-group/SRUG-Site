@@ -1,0 +1,70 @@
+@import url(http://fonts.googleapis.com/css?family=Oxygen:400,700|Metrophobic);
+
+body{
+	font-family: 'Metrophobic', sans-serif;
+	font-size: 14px;
+	padding: 0 40px 40px 40px;
+	-webkit-text-stroke: 0.25px;
+}
+
+h1 {
+	font-size: 3.7em;
+}
+
+h2 {
+	font-size: 2.5em;
+	margin-top: 52px;
+}
+
+h3 {
+	font-size: 2.0em;
+}
+
+h4 {
+	font-size: 1.4em;
+}
+
+p {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1.2em;
+}
+
+a:link {color:#DA2929;}    /* unvisited link */
+a:visited {color:#DA2929;} /* visited link */
+a:hover {color:#DA2929;}   /* mouse over link */
+a:active {color:#DA2929;}  /* selected link */
+
+h1.title{
+	display: inline-block;
+	padding-right: 10px;
+}
+
+h2.meeting {
+	float: right;
+}
+
+.lower {
+	display: inline-block;
+	height:100%;
+	width: 49%;
+	min-width: 300px;
+}
+
+.left {
+	float: left;
+}
+
+.ruby-icon{
+	width: 40px;
+}
+
+.twitter-icon{
+	margin: 0 0.50em -0.50em 0;
+	width: 30px;
+}
+
+
+#map {
+	height: 300px;
+	width: 100%;
+}

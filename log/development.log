@@ -1,0 +1,976 @@
+Connecting to database specified by database.yml
+
+
+Started GET "/js/main.js" for 127.0.0.1 at 2013-10-10 19:35:47 -0700
+
+ActionController::RoutingError (No route matches [GET] "/js/main.js"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.9ms)
+
+
+Started GET "/css/style.scss" for 127.0.0.1 at 2013-10-10 19:35:47 -0700
+
+ActionController::RoutingError (No route matches [GET] "/css/style.scss"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/img/ruby.png" for 127.0.0.1 at 2013-10-10 19:35:47 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/ruby.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/img/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:35:47 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/mail-icon.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/img/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:35:47 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/twitter-icon.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (35.4ms)
+
+
+Started GET "/img/ruby.png" for 127.0.0.1 at 2013-10-10 19:35:47 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/ruby.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/img/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:35:47 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/mail-icon.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/img/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:35:47 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/twitter-icon.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/img/ruby.png" for 127.0.0.1 at 2013-10-10 19:36:22 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/ruby.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/img/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:36:22 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/mail-icon.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/img/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:36:22 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/twitter-icon.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/img/ruby.png" for 127.0.0.1 at 2013-10-10 19:36:22 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/ruby.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (10.3ms)
+
+
+Started GET "/img/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:36:22 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/mail-icon.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:37:39 -0700
+Compiled style.css  (33ms)  (pid 19536)
+Served asset /style.scss - 200 OK (48ms)
+
+
+Started GET "/img/ruby.png" for 127.0.0.1 at 2013-10-10 19:37:39 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/ruby.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:37:39 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (16ms)
+
+
+Started GET "/img/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:37:39 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/mail-icon.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/img/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:37:39 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/twitter-icon.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/img/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:37:39 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/twitter-icon.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/img/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:37:39 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/mail-icon.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/img/ruby.png" for 127.0.0.1 at 2013-10-10 19:37:39 -0700
+
+ActionController::RoutingError (No route matches [GET] "/img/ruby.png"):
+  actionpack (3.2.13) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.13) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.13) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.13) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.13) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.13) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.13) lib/rails/engine.rb:479:in `call'
+  railties (3.2.13) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.13) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/dan/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/dan/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:38:03 -0700
+Served asset /main.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:38:03 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:38:03 -0700
+Served asset /ruby.png - 200 OK (15ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:38:03 -0700
+Served asset /mail-icon.png - 200 OK (35ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:38:03 -0700
+Served asset /twitter-icon.png - 200 OK (10ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:39:20 -0700
+Served asset /main.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:39:20 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:39:20 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:39:20 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:39:20 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:39:35 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:39:35 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:39:35 -0700
+Served asset /main.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:39:35 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:39:35 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:40:35 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:40:35 -0700
+Served asset /main.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:40:35 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:40:35 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:40:35 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:41:00 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:41:00 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:41:00 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:41:01 -0700
+Served asset /main.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:41:01 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:42:14 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:42:14 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:42:14 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:42:14 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:42:14 -0700
+Served asset /main.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:43:26 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:43:26 -0700
+Compiled main.js  (2ms)  (pid 19536)
+Served asset /main.js - 200 OK (39ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:43:26 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:43:26 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:43:26 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:43:41 -0700
+Compiled main.js  (2ms)  (pid 19536)
+Served asset /main.js - 200 OK (65ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:43:41 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:43:41 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:43:41 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:43:41 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:43:56 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:43:56 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (10ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:43:56 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:43:56 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:43:56 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:44:06 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (12ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:44:06 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:44:06 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:44:06 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:44:06 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:44:09 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:44:09 -0700
+Served asset /main.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:44:09 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:44:09 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:44:09 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:44:20 -0700
+Compiled main.js  (3ms)  (pid 19536)
+Served asset /main.js - 200 OK (19ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:44:20 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:44:20 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:44:20 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:44:20 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:44:27 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:44:27 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:44:27 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (16ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:44:27 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:44:27 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:44:36 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:44:36 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:44:36 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:44:36 -0700
+Compiled main.js  (2ms)  (pid 19536)
+Served asset /main.js - 200 OK (9ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:44:36 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:44:43 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:44:43 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (24ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:44:43 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:44:43 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:44:43 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:44:51 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:44:51 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (12ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:44:51 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:44:51 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:44:51 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:44:57 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:44:57 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:44:57 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:44:57 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (10ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:44:57 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:45:08 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:45:08 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (13ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:45:08 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:45:08 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:45:08 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:45:20 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:45:20 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:45:20 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (11ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:45:20 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:45:20 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:46:52 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:46:52 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (8ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:46:52 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:46:52 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:46:52 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:47:01 -0700
+Served asset /main.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:47:01 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:47:01 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:47:01 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:47:01 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
