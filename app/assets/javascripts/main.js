@@ -1,10 +1,14 @@
 window.onload = function(){
-	var map = L.map('map').setView([47.652341, -117.411220], 13);
-
+	var map = L.map('map', {zoomControl:false}).setView([47.652341, -117.411220], 13);
+	map.dragging.disable();
+	map.touchZoom.disable();
+	map.doubleClickZoom.disable();
+	map.scrollWheelZoom.disable();
+	map.boxZoom.disable();
+	map.keyboard.disable();
 	L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 		attribution: 'Map data &copy;',
-		maxZoom: 18,
-		zoomControl: false
+		maxZoom: 18
 	}).addTo(map);
 
 	// L.marker([47.673341, -117.410271])

@@ -974,3 +974,106 @@ Served asset /mail-icon.png - 304 Not Modified (0ms)
 
 Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:47:01 -0700
 Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:57:16 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:57:16 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (17ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:57:16 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:57:16 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:57:16 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:58:30 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:58:30 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:58:30 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:58:30 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (9ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:58:30 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 19:59:06 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 19:59:06 -0700
+Compiled main.js  (0ms)  (pid 19536)
+Served asset /main.js - 200 OK (90ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 19:59:07 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 19:59:07 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 19:59:07 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 20:17:39 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 20:17:39 -0700
+Served asset /ruby.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 20:17:39 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 20:17:39 -0700
+Served asset /main.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 20:17:39 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.scss" for 127.0.0.1 at 2013-10-10 20:19:32 -0700
+Served asset /style.scss - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ruby.png" for 127.0.0.1 at 2013-10-10 20:19:32 -0700
+Served asset /ruby.png - 200 OK (7ms)
+
+
+Started GET "/assets/main.js" for 127.0.0.1 at 2013-10-10 20:19:32 -0700
+Served asset /main.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mail-icon.png" for 127.0.0.1 at 2013-10-10 20:19:32 -0700
+Served asset /mail-icon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-icon.png" for 127.0.0.1 at 2013-10-10 20:19:32 -0700
+Served asset /twitter-icon.png - 304 Not Modified (0ms)
