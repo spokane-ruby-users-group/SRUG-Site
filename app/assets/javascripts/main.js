@@ -11,7 +11,7 @@ window.onload = function(){
 		maxZoom: 18
 	}).addTo(map);
 
-	// L.marker([47.673341, -117.410271])
-	// .addTo(map)
-	// .bindPopup('123 W Nth St. @ The Old Arma Cell Building <br /> <a href="https://maps.google.com/maps?f=d&source=s_d&saddr=Current+Location&daddr=47.663509,+-117.421599&hl=en" target="_blank">Directions</a>');
+	L.marker([47.654811, -117.425147])
+	.addTo(map)
+	.bindPopup('906 W. 2nd Ave Suite 100 <br /> <a href="https://maps.google.com/maps?f=d&source=s_d&saddr=Current+Location&daddr=47.654811,+-117.425147&hl=en" target="_blank">Directions</a>');
 }
